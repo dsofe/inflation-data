@@ -1,6 +1,6 @@
 ## Directory
 
-`**inflation** > **raw_data** > **<ITEM>** > **<MSA>**`
+**`inflation  >  raw_data  >  <ITEM>  >  <MSA>`**
 
 <br>
 
